@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+"title: Welcome to Piecemaker719's About Me Page!"
+
+Learning about the Git
 
 You can use the [editor on GitHub](https://github.com/PieceMaker719/piecemaker719.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
